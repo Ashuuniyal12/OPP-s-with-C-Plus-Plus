@@ -1,8 +1,8 @@
-/*Class : Provide Inheritance.							|	Structure: Do not Provide Inheritance.
-			  Provide Encapsulation.				|	Do not Provide Encapsulation.
-			  Members are initilize using constructor.		|	Members are automatically initized.
-			  Variable can be initilize during decleration.		|	Variable can not be initilize during decleration.
-			  Memory to Object is provided in heap                  |	Memory to variable is provided in Stack
+/*Class : 		  Provide Inheritance.					|	Structure: 	Do not Provide Inheritance.
+			  Provide Encapsulation.				|			Do not Provide Encapsulation.
+			  Members are initilize using constructor.		|			Members are automatically initized.
+			  Variable can be initilize during decleration.		|			Variable can not be initilize during decleration.
+			  Memory to Object is provided in heap                  |			Memory to variable is provided in Stack
 */
 #include<iostream>
 using namespace std; 
